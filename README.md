@@ -1,6 +1,6 @@
 # PM
 Personal Master
-Testing occurs in gg/unifydevs and private servers.
+Test on private servers.
 
 ### TODO
 - [x] Decided starting materials
